@@ -18,8 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone github.com/Dhanya087/Tokenization-NLP-nltk-spacy-gensim
 Navigate to the directory of the library you want to use (spacy_example/, nltk_example/, or gensim_example/).
 
 Install the necessary dependencies. For example, if you're using SpaCy:
